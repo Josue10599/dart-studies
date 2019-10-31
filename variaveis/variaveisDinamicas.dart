@@ -16,7 +16,7 @@ main() {
       + "\n utilizará mais recursos do computador, tornando o seu programa"
       + "\n lento e pesado para se executar, então deve se utilizar com cuidado.");
 
-      dynamic valor = "25";
-      valor = 25;
-      valor = 25.5;
+  dynamic valor = "25";
+  valor = 25;
+  valor = 25.5;
 }
